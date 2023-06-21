@@ -1,0 +1,5 @@
+﻿  Connect4.cpp
+C:\Users\yusuf\source\repos\Connect4\Settings.h(26,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\yusuf\source\repos\Connect4\Finish.h(51,42): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+C:\Users\yusuf\source\repos\Connect4\Finish.h(72,42): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+  Connect4.vcxproj -> C:\Users\yusuf\source\repos\Connect4\Debug\Connect4.exe
